@@ -1,1 +1,20 @@
-Instructions
+INSTRUCTIONS:
+
+Purchase an RS485 to WiFi module. There are many available, in board form, as a packaged module, as a DIN unit for mounting on a rail. 
+
+The module I used is the Elfin EW11 RS486 WiFi Serial Server from Hi-Flying.com. http://www.hi-flying.com/elfin-ew10-elfin-ew11
+
+I sourced my unit from Aliexpress, with supporting antenna, connector cables and mounting block: https://www.aliexpress.com/item/1005006252294801.html but this unit is available from many vendors.
+
+
+Configure the WaveShare module. In mode, you need to set Modbus TCP <=> Modbus RTU. The default username and password is admin admin
+
+Connect the WaveShare module to your Midea 170L heat pump. The cables are Yellow = GND, Gray = B, Black = A.
+
+Using File Editor in Home Assistant navigator to your configuration.yaml file and add this line 
+
+modbus: !include modbus.yaml
+
+Using File Editor, create a modbus.yaml file and copy the configuration above.
+
+Adjust the host to match the IP address of your WaveShare module.
