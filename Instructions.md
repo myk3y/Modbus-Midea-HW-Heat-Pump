@@ -15,7 +15,7 @@ The basic procedure is: to connect the module to power, to configure it to use y
 
 To power the EW11, I used an AM11-12W12C 220V AC to 12V DC transformer. It has an output of 1000mW - more than enough to drive the EW11. Again, I sourced this component from Aliexpress, but any number of modules would do the same job: https://www.aliexpress.com/item/1005005937263063.html
 
-![Alt text](images/AM11-12W12C%20transformer.png)
+![Alt text](images/)
 
 **Step 1: Connect the EW11 to the Midea Heat Pump**
 
