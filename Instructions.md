@@ -34,23 +34,14 @@ MODBUS Yellow cable (GND) shares the screw block with 12VDC black/negative wire
 
 ![Alt text](images/Screw%20Block%20Wiring.png)
 
-Mount the trnsformer and the RS485 module securely to the heat pump. For this I used 3M VHB mounting tape. This 3M product is strong, flexible, but able to be removed if necessary. I have had units mounted over a dozen years and the bond is as strong today as the day I installed it. It will bond to almost any clean surface.
+Mount the transformer and the RS485 module securely to the heat pump. For this I used 3M VHB mounting tape. This 3M product is strong, flexible, but able to be removed if necessary. I have had units mounted over a dozen years and the bond is as strong today as the day I installed it. It will bond to almost any clean surface.
 
 https://www.3mnz.co.nz/3M/en_NZ/vhb-tapes-nz/
+
+Be sure to mount the RS485 module in a way that you can orient the antenna in the same plane as your AP/WiFi router - in other words, if your router has its antenna vertically, make the RS485 antenna vertical too - it will ensure the best connection. The unit is inside a metal casing, surrounded by electronics which can interfere with the signal.
 
 - Once the device is connected and securely mounted, you can power the heat pump back up and connect to the RS485 module
 
 **Configuration**
 
 
-Configure the WaveShare module. In mode, you need to set Modbus TCP <=> Modbus RTU. The default username and password is admin admin
-
-Connect the WaveShare module to your Midea 170L heat pump. The cables are Yellow = GND, Gray = B, Black = A.
-
-Using File Editor in Home Assistant navigator to your configuration.yaml file and add this line 
-
-modbus: !include modbus.yaml
-
-Using File Editor, create a modbus.yaml file and copy the configuration above.
-
-Adjust the host to match the IP address of your WaveShare module.
