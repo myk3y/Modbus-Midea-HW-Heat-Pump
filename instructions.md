@@ -1,4 +1,4 @@
-INSTRUCTIONS:
+**INSTRUCTIONS**:
 
 Purchase an RS485 to WiFi module. There are many available - in board form, as a packaged module, as a DIN unit for mounting on a rail. 
 
@@ -6,9 +6,13 @@ The module I used is the Elfin EW11 RS486 WiFi Serial Server from Hi-Flying.com.
 
 I sourced my unit from Aliexpress, with supporting antenna, connector cables and mounting block: https://www.aliexpress.com/item/1005006252294801.html but this unit is available from many vendors.
 
-Overview:
+**Overview**:
 
-The basic procedure is to connect the module to power, to configure it to use your local WiFi AP, to set the operating parameters on the EW11, to connect it to the Midea MODBUS, to configure Home Assistant to poll the device and to check the results in Home Assistant.
+The basic procedure is: to connect the module to power, to configure it to use your local WiFi AP, to set the operating parameters on the EW11, to connect it to the Midea MODBUS, to configure Home Assistant to poll the device and to check the results in Home Assistant.
+
+To powwr the EW11, I used an AM11-12W12C 220V AC to 12V DC buck transformer. It has an output of 1000mW - more than enough to drive the EW11. Again, I sourced this component from Aliexpress, but any number of modules would do the same job: https://www.aliexpress.com/item/1005005937263063.html
+
+**Step 1: Connect the EW11 to the Midea Heat Pump**
 
 
 
