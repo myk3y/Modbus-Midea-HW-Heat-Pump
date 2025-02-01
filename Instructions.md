@@ -2,7 +2,7 @@
 
 Purchase an RS485 to WiFi module. There are many available - in board form, as a packaged module, as a DIN unit for mounting on a rail. 
 
-The module I used is the Elfin EW11 RS486 WiFi Serial Server from Hi-Flying.com. http://www.hi-flying.com/elfin-ew10-elfin-ew11
+The module I used is the Elfin EW11 RS486 WiFi Serial Server from Hi-Flying.com. [go](http://www.hi-flying.com/elfin-ew10-elfin-ew11){:target="_blank" rel="noopener"}
 
 ![Alt text](images/Elfin-EW11%20RS485%20Serial%20Server.png)
 
