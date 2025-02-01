@@ -13,7 +13,7 @@ I sourced my unit from Aliexpress, with supporting antenna, connector cables and
 
 **Overview**:
 
-The basic procedure is: to connect the module to power, to configure it to use your local WiFi AP, to set the operating parameters on the EW11, to connect it to the Midea MODBUS, to configure Home Assistant to poll the device and to check the results in Home Assistant.
+The basic procedure is: Disassmble the heatpump top cover, connect the module to power, securely mount the unit inside the heatpump body, replace the top casing, connect back to mains power,configure it to use your local WiFi AP, set the operating parameters on the EW11, connect it to the Midea MODBUS, configure Home Assistant to poll the device and to check the results in Home Assistant.
 
 To power the EW11, I used an AM11-12W12C 220V AC to 12V DC transformer. It has an output of 1000mW - more than enough to drive the EW11. Again, I sourced this component from Aliexpress, but any number of modules would do the same job: https://www.aliexpress.com/item/1005005937263063.html
 
@@ -23,7 +23,10 @@ To power the EW11, I used an AM11-12W12C 220V AC to 12V DC transformer. It has a
 
 - Power the unit off at the mains connector
 - Remove the right-hand cover (as seen when facing the control panel) from the heat pump unit on top of the water tank
-- Inside the cover, locate the MODBUS cables, AC 220V connectors.
+- Remove the two screws holding the power connectors to the housing
+- Remove all the mounting screws holding the top casing to the main tank
+- Carefully feed the power terminal-holding casing through the main top casing and remove the top casing, allowing you full access to the interior
+- In the heatpump body, locate the MODBUS cables, AC 220V connectors.
 
 The MODBUS cables are black (MODBUS A), gray (MODBUS B) and yellow (GND)
 The connections for the EW11 are:
