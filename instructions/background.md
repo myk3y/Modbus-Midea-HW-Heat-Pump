@@ -2,7 +2,7 @@
 
 ***Background***
 
-The Midea Heat Pump Hot Water heater is an efficient water heater using heat-pump technology. It comes with an integrated WiFi adapter and associated iOS/Android app, but no easy way of integrating that with Home Assistant.
+The Midea Heat Pump Hot Water heater is an efficient water heater available in 170L or 300L versions, using heat-pump technology, immersion, or hybrid (both heat-pump and immersion). It comes with an integrated WiFi adapter and associated iOS/Android app, but no easy way of integrating that with Home Assistant.
 
 
 ![Alt text](/images/Midea%20HP300.jpeg)
