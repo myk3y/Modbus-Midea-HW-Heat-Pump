@@ -10,7 +10,7 @@ And on the work done by **ill_hey** in adapting it for the Elfin-EW11 https://co
 The Midea Heat Pump Hot Water heater is an efficient water heater using heat-pump technology. It comes with an integrated WiFi adapter and associated iOS/Android app, but no easy way of integrating that with Home Assistant.
 
 
-![Alt text](/images/Midea%20HP300.jpeg
+![Alt text](/images/Midea%20HP300.jpeg)
 
 
 
