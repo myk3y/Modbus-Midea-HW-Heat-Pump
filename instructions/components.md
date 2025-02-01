@@ -16,4 +16,4 @@ To power the EW11, I used an AM11-12W12C 220V AC to 12V DC transformer. It has a
 
 ![Alt text](/images/AM11-12W12C.jpg)
 
-[**Installation Instructoions:**](instructions.md) 
+[**Installation Instructions:**](instructions.md) 
