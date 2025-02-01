@@ -10,11 +10,11 @@
 The MODBUS cables are black (MODBUS A), gray (MODBUS B) and yellow (GND)
 The connections for the EW11 are:
 
-![Alt text](images/Elfin%20EW11%20Connection%20Diagram.png)
+![Alt text](/images/Elfin%20EW11%20Connection%20Diagram.png)
 
 MODBUS Yellow cable (GND) shares the screw block with 12VDC black/negative wire
 
-![Alt text](images/Screw%20Block%20Wiring.png)
+![Alt text](/images/Screw%20Block%20Wiring.png)
 
 Mount the transformer and the RS485 module securely to the heat pump. For this I used 3M VHB mounting tape. This 3M product is strong, flexible, but able to be removed if necessary. I have had units mounted over a dozen years and the bond is as strong today as the day I installed it. It will bond to almost any clean surface.
 
