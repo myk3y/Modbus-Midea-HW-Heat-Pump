@@ -1,3 +1,5 @@
+[back](components.md) 
+
 **Step 1: Connect the EW11 to the Midea Heat Pump**
 
 - Power the unit off at the mains connector

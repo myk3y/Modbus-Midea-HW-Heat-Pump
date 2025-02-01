@@ -1,3 +1,5 @@
+[back](step1.md) 
+
 **Step 2: Connect the module to WiFi**
 
 On your phone/laptop/tablet connect to the EW11's AP (which will have the format EW11_XXXX), browse to address 10.10.100.254, login to the admin interface with user and password admin/admin
