@@ -24,5 +24,5 @@ Be sure to mount the RS485 module in a way that you can orient the antenna in th
 
 - Once the device is connected and securely mounted, you can power the heat pump back up and connect to the RS485 module
 
-[**Step 2: Connect the Module to WiFi**](step2.md)
+[**Step 2: Connect the Module to WiFi**](instructions/step2.md)
 

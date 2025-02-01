@@ -13,4 +13,4 @@ For the investment of around US$20, you can get full sensor monitoring and contr
 
 There are many such devices, but I have used the Elfin-EW11 for ease-of-use, packaging and price.
 
-[**Installation Instructions**](Instructions.md)
+[**Installation Instructions**](instructions/Instructions.md)
