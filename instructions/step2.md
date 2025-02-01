@@ -8,11 +8,11 @@ Once you are logged in, to connect to your home WiFi you need to set the device 
 
 Locate the WiFi Information panel on the Systems Settings page. Select the WiFi Mode dropdown and select STA
 
-![Alt text](/images/EW11%20WiFi%20Scan.png)
+![Alt text](/images/EW11_WiFi_Scan.png)
 
 After selecting STA, you can scan the local networks and locate your home WiFi. Ht the 'Scan' button and wait until the table is populated. Click on the 'Choose' button for your home WiFi and enter your password
 
-![Alt text](/images/EW11%20WiFi%20Scan.png)
+![Alt text](/images/EW11_WiFi_Scan_Selection.png)
 
 
 [**Step 3: Configure the module**](step3.md)
