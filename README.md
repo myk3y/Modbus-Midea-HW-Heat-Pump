@@ -1,7 +1,7 @@
 [back](/README.md) 
 
 # Modbus-Midea-HW-Heat-Pump
-Integrate the Midea/Chromagen Hot Water Heat Pump with Home Assistant
+Integrate the Midea Hot Water Heat Pump with Home Assistant
 
 This is based on the work by **BrittonA** in documenting the MODBUS protocol for the Midea controller and the integration into Home Assistant  https://gist.github.com/BrittonA/339d25efb934bdb4f451ba7e2f920ba3
 
