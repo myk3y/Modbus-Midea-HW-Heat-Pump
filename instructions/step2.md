@@ -2,4 +2,4 @@
 
 
 
-[**Step 3: Configure the module**](instructions/step3.md)
+[**Step 3: Configure the module**](step3.md)
